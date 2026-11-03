@@ -15,18 +15,16 @@ Park code: `acad`
 
 ## Events (through Nov 30)
 
-The park service lists 392 total events for the 2025 range queried. Sample events returned:
+The park service lists 392 total events for the 2025 range queried. Sample events returned (dates/times came back as "All day" with no specific dates in the feed; verify dates on the park website):
 
-- Isle Au Hajoperating Cruise — meet here (All day)
+- Isle Au Haut Cruise — meet here (All day)
 - Carroll Homestead Drop-in Program — living history, accessible
 - Islesford Historic Cruise — ranger-led boat tour of Great Harbor and Somes Sound
-- Family Program at Schoodic Woods Campground: Jr. Rangers Go Birding!
+- Family Program at the Schoodic Woods Campground: Jr. Rangers Go Birding!
 - Evening Program at Schoodic Woods Campground: Seals!
 - Family Program at the Schoodic Woods Campground: Tails at Twilight
 - Marine Touch Tank Program at the Schoodic Peninsula (Dorr Hall, SERC)
 - Cultural Connections in the Park: The Burnurwurbskek Singers (select Wednesdays June-September, Summit of Cadillac Mountain; vehicle reservation required for Cadillac Summit Road)
-
-Note: event dates/times came back as "All day" with no specific dates in the feed; verify dates on the park website.
 
 ## Alerts (active)
 
@@ -49,7 +47,7 @@ Note: event dates/times came back as "All day" with no specific dates in the fee
 - Location: 664 Seawall Rd, Southwest Harbor, ME 04679 (west side of Mount Desert Island, ~4 mi south of Southwest Harbor, ~18 mi from Bar Harbor; all sites within short walking distance of coastline)
 - Sites: 202 total (43 tent-only, 59 RV only, 98 walk/boat-to, 5 group); open typically from the Wednesday before Memorial Day to Columbus Day; ranger station generally 9 am-8 pm peak season
 - Fees: Standard Non-electric $30/night; Tent Only Non-electric $30/night; RV Non-electric $30/night; Walk-in $22/night; Group Tent Only $60/night
-- Amenities: Trash/Recycling Collection; Toilets (Flush Toilets - seasonal); Internet Connectivity; Showers (None); Cell Phone Reception; Laundry; Amphitheater; Dump Station; Camp Store; Staff/Volunteer Host Onsite; Potable Water (Yes - seasonal); Ice Available For Sale; Firewood For Sale; Food Storage Lockers
+- Amenities: Trash/Recycling Collection; Toiles (Flush Toilets - seasonal); Internet Connectivity; Showers (None); Cell Phone Reception; Laundry; Amphitheater; Dump Station; Camp Store; Staff/Volunteer Host Onsite; Potable Water (Yes - seasonal); Ice Available For Sale; Firewood For Sale; Food Storage Lockers
 - Accessibility: accessible sites and restrooms wheelchair accessible; 3 RV (35 ft max), 5 drive-in, 5 walk-in, one group site
 
 ### Schoodic Woods Campground
@@ -63,7 +61,7 @@ Note: event dates/times came back as "All day" with no specific dates in the fee
 - Location: Isle au Haut, PO Box 177, Bar Harbor, ME 04609 (rugged island off the coast of Stonington; accessible only by mailboat; no roads)
 - Sites: 5 total (5 tent-only / walk-boat-to lean-to shelters); max stay 3 nights, one stay per calendar year, 6 people per campsite; no pets; all trash carried out
 - Fees: Tent/Shelter Non-Electric $20/night (max 6 people)
-- Amenities: Trash/Recycling Collection; Toilets (Composting Toilets - seasonal); Internet Connectivity; Showers (None); Cell Phone Reception; Laundry; Amphitheater; Dump Station; Camp Store; Staff/Volunteer Host Onsite; Potable Water (Yes - seasonal); Ice Available For Sale; Firewood For Sale; Food Storage Lockers
+- Amenities: The park service campground listing returned no explicit amenity list for Duck Harbor (amenities field came back empty); known from listing: composting toilets (seasonal), potable water (seasonal), no showers, food storage required (carry out trash)
 - Accessibility: not wheelchair-accessible; rocky/uneven terrain, narrow trails, sheltered entries stepped
 
 Reservations: all campsites must be reserved in advance via Recreation.gov (not by phone or in-person). Blackwoods/Seawall/Schoodic Woods: 90% of sites released 6 months ahead on the first of each month at 10 am EST; remaining 10% released 10 am 14 days ahead on a rolling basis. Duck Harbor: reservations released 10 am April 1 for the entire season, 7 months in advance.
@@ -73,20 +71,16 @@ Reservations: all campsites must be reserved in advance via Recreation.gov (not 
 1. **Hulls Cove Visitor Center** (25 Visitor Center Road, Bar Harbor, ME 04609) — main visitor contact station and transportation hub May into October; adjacent to Park Loop Road entrance; key stop for fare-free Island Explorer bus. 52 steps to main entrance; separate accessible entrance. Hours: daily 8:30 AM - 4:30 PM. Winter info moves to Bar Harbor Chamber of Commerce.
 2. **Sieur de Monts Nature Center** (47 Sweet Water Circle, Bar Harbor, ME 04609) — visitor services, hiking information, interactive exhibits; trailhead for many hikes. Hours: daily 9 AM - 5 PM (June 14 through Oct 12, 2026).
 3. **Acadia Gateway Center** (Route 3, Trenton, ME 04605) — intermodal transit and welcome center; Island Explorer bus stop, day-use parking, 11,000 sq ft welcome center with tourism info, store, waiting area, restrooms. Owned by State of Maine, operated with NPS partnership. Hours: 8 AM - 6 PM, Wed May 20 to Mon Oct 12, 2026.
-4. **Islesford Historical Museum** (Little Cranberry Island, Islesford, ME 04646) — cultural history, life on/around Cranberry Isles from 1700s to present; accessible only by boat. Hours: daily 10:30 AM - 4:00 PM; closes for season Sep 19, 2026.
-5. **Schoodic Institute Welcome Center at Rockefeller Hall** (9 Atterbury Circle, Winter Harbor, ME 04693) — exhibits about the old Navy base and park information on the Schoodic Peninsula. Hours: daily 10 AM - 5 PM (May 1 through Oct 26, 2025).
-6. **Winter Information: Bar Harbor Chamber of Commerce** (2 Cottage Street, Bar Harbor, ME 04609) — winter/spring information and some pass sales. Hours: daily 8 AM - 4 PM, typically Nov 1 into early May; holiday closures on Thanksgiving, Christmas Eve/Day, New Year's Eve/Day.
+4. **Islesford Historical Museum** (Little Cranberry Island, Islesford, ME 04646) — celebrates Islesford's cultural history; exhibits from 1700s to present; accessible only by boat. Hours: daily 10:30 AM - 4:00 PM; closes for season Sep 19, 2026.
+5. **Schoodic Institute Welcome Center at Rockefeller Hall** (9 Atterbury Circle, Winter Harbor, ME 04693) — exhibits about the old Navy base and park information; on Schoodic Peninsula off the one-way loop road. Hours: daily 10:00 AM - 5:00 PM (May 1 through Oct 26, 2025).
+6. **Winter Information: Bar Harbor Chamber of Commerce** (2 Cottage Street, Bar Harbor, ME 04609) — winter/spring info and some pass sales; open 7 days a week 8 am - 4 pm, typically Nov 1 into early May; holiday closures Thanksgiving, Christmas Eve/Day, New Year's Eve/Day.
 
 ## Community notes (GitHub issue search)
 
-Open issues mentioning "Acadia" (top results by recent activity):
+Search for open issues mentioning "Acadia National Park" returned 66 results total. Notable items:
 
-- **FriendOfMankind/Colin-Travel-Planner#148** — "My Maps need a re-import" (open, updated 2026-11-02). Bot issue about My Maps re-import for several travel plans including newfoundland-2027, dingle-marseille-2027, northern-rockies-2027, sky-islands-2027; dingle-marseille-2027 and newfoundland-2027 reference Acadia itinerary days.
-- **mcpmark-eval-liuhezi/acadia-camping-trip#29** — "Schoodic Woods Campground - amenities and season notes" (open, updated 2026-11-02). Detailed notes on Schoodic Woods: location 1.5 mi SE of Winter Harbor on the Schoodic Peninsula, ~60-70 min from Bar Harbor, 89 sites (13 tent-only, 41 RV-only, 78 electrical hookups, 9 walk/boat-to, 2 group), open Wednesday before Memorial Day until Columbus Day, reservations via Recreation.gov (https://www.recreation.gov/camping/campgrounds/251833), fees Hike-in $22, Standard Electric $30, Tent Only Electric $30, RV Electric No Water $36, RV Electric and Water $40, Group Tent $60, and note Schoodic Mountain Road closed for repairs.
-- Other matches included an ops coordination issue (#718 in some repo) not directly Acadia-focused.
+- `mcpmark-eval-liuhezi/acadia-camping-trip#29` — "Schoodic Woods Campground - amenities and season notes" (open, by HeziLiu; contains detailed Schoodic Woods campground data matching NPS listing)
+- `mcpmark-eval-liuhezi/acadia-camping-trip#17` — "Reserve: Duck Harbor Campground" (open, by HeziLiu; covers Duck Harbor location and regulations)
+- Other results (e.g., cvolkernick/personal-workspace#718 "[Ops] Muse ↔ Grok.btc direct line") appear unrelated to Acadia despite matching the search terms.
 
-## Essentials
-
-- Park phone: 207-288-3338; email: acadia_information@nps.gov
-- Entrance: Private Vehicle $35 (7 days); Nonresident fee $100 for non-US residents 16+ unless Annual/America the Beautiful pass.
-- Fall temps 30-70F; first frost mid-October, first snow November.
+The relevant community discussion is in the `mcpmark-eval-liuhezi/acadia-camping-trip` repository, which already contains campaign-related issues (#17, #29).
