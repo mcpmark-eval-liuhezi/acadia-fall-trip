@@ -16,11 +16,22 @@ Park code: `acad`
 
 ## Events (today through Nov 30)
 
-The park service lists 1 event for the range 2026-11-02 to 2026-11-30:
+The park service lists events for Acadia. Notable events returned include:
 
-- **Take Pride in Acadia Day** — Special Event, 2026-11-07, All day. Volunteers of all ages help put the carriage roads to bed for the season: raking leaves from drainage ditches to reduce leaf dams and clogged culverts. Ends with chili, corn bread, cider, and cake. Location coordinates: 44.409137, -68.248873.
+- **Isle Au Haut Cruise** — Regular Event, "All day" (meet here; coordinates 44.385219, -68.201752)
+- **Carroll Homestead Drop-in Program** — Regular Event, "All day" (coordinates 44.303601, -68.327172; wheelchair accessible)
+- **Islesford Historic Cruise** — Regular Event, "All day" (ranger-led boat tour of Great Harbor and Somes Sound; visit Little Cranberry Island and Islesford Historical Museum)
+- **Family Program at the Schoodic Woods Campground: Jr. Rangers Go Birding!** — Regular Event, Schoodic Woods Campground Amphitheater
+- **Evening Program at Schoodic Woods Campground: Seals!** — Regular Event, Schoodic Woods Campground Amphitheater
+- **Family Program at the Schoodic Woods Campground: Tails at Twilight** — Regular Event, Schoodic Woods Campground Amphitheater
+- **Marine Touch Tank Program at the Schoodic Peninsula** — Regular Event, Dorr Hall at the Schoodic Education and Research Center
+- **Cultural Connections in the Park: The Burnurwurbskek Singers** — Special Event, select Wednesdays June through September, Summit of Cadillac Mountain (free; vehicle reservation needed for Cadillac Summit Road)
+- **Hawk Watch** — Regular Event, 200 yards down the Cadillac North Ridge Trail from Cadillac Mountain Summit Parking (fall raptor migration; Cadillac Summit Road vehicle reservation required)
+- **Carriage Road Bike Tour** — Regular Event, ranger-guided 6.0 mile moderate ride (price includes 21-speed bike and helmet for the full day)
+- **Evening Program: Acadia's Night Sky** — Regular Event, Sand Beach (dress warmly, bring something to lie on)
+- **The Point of Porcupines** — Regular Event
 
-No other events returned for this date range.
+Note: The NPS events feed returns dates as "All day" with no explicit date fields; check the NPS site for exact times. The park service lists 392 total events for the wide range queried and 24 for Oct 1 - Nov 30.
 
 ## Alerts (active — 3)
 
@@ -71,14 +82,22 @@ Reservations: all campsites must be reserved in advance via Recreation.gov (not 
 1. **Hulls Cove Visitor Center** (25 Visitor Center Road, Bar Harbor, ME 04609) — Main visitor contact station and transportation hub from May into October. 8:30AM-4:30PM daily. 52 steps to main entrance; separate accessible entrance available.
 2. **Sieur de Monts Nature Center** (47 Sweet Water Circle, Bar Harbor, ME 04609) — Visitor services, hiking information, interactive exhibits; trailhead for many hiking trails. 9:00AM-5:00PM daily (June 14 through Oct 12, 2026).
 3. **Acadia Gateway Center** (Route 3, Trenton, ME 04605) — Intermodal transit and welcome center; Island Explorer bus stop, day-use parking, 11,000-sq-ft welcome center with tourism info, store, waiting area, restrooms. 8AM-6PM daily (May 20-Oct 12, 2026).
-4. **Islesford Historical Museum** (Little Cranberry Island, Islesford, ME 04646) — Cultural history exhibits, life on Cranberry Isles from 1700s to present. 10:30AM-4:00PM daily; closes for season Sep 19, 2026. Accessible only by boat.
-5. **Schoodic Institute Welcome Center at Rockefeller Hall** (9 Atterbury Circle, Winter Harbor, ME 04693) — Exhibits about the old Navy base and park information. 10:00AM-5:00PM daily (May 1 through Oct 26).
-6. **Winter Information: Bar Harbor Chamber of Commerce** (2 Cottage Street, Bar Harbor, ME 04609) — Winter/spring info and some pass sales. 8AM-4PM daily, typically Nov 1 into early May; holiday closures Thanksgiving, Christmas Eve, Christmas Day, New Year's Eve, New Year's Day.
+4. **Islesford Historical Museum** (Little Cranberry Island, Islesford, ME 04646) — Cultural history of Islesford and the Cranberry Isles from the 1700s to present; accessible only by boat. Hours 10:30AM-4:00PM (season ends Sep 19, 2026).
+5. **Schoodic Institute Welcome Center at Rockefeller Hall** (9 Atterbury Circle, Winter Harbor, ME 04693) — Exhibits about the old Navy base and park information; on the Schoodic Peninsula off the one-way loop road. 10:00AM-5:00PM daily (May 1-Oct 26, 2025).
+6. **Winter Information: Bar Harbor Chamber of Commerce** (2 Cottage Street, Bar Harbor, ME 04609) — During winter/spring, information and some pass sales; open 7 days a week 8 am-4 pm, typically Nov 1 into early May; holiday closures Thanksgiving, Christmas Eve, Christmas Day, New Year's Eve, New Year's Day.
 
-## Community notes (GitHub issue search: Acadia is:open)
+## Community notes (GitHub issue search: "Acadia is:open", 298 results)
 
-- **FriendOfMankind/Colin-Travel-Planner#148** — "My Maps need a re-import" (open). Weekly check found My Maps out of date for dingle-marseille-2027, newfoundland-2027, northern-rockies-2027; re-import KML files from the Pages site.
-- **mcpmark-eval-liuhezi/acadia-camping-trip#29** — "Schoodic Woods Campground - amenities and season notes" (open, by HeziLiu). Detailed Schoodic Woods info: 89 sites (13 tent-only, 41 RV-only, 78 electric hookups, 9 walk/boat-to, 2 group), amenities, season (Wed before Memorial Day until Columbus Day), reservation via Recreation.gov, fees, and note that Schoodic Mountain Road is closed for repairs.
-- Other results were unrelated ops issues (e.g., cvolkernick#718 "[Ops] Muse ↔ Grok.btc direct line").
+Top open issues mentioning Acadia:
 
-Total matching open issues: 298.
+- **mcpmark-eval-liuhezi/acadia-trip-planning#7** — "Acadia trip planning" (open). Parent tracking issue for a team's long weekend at Acadia National Park, Maine (park code: acad, state: ME); sub-issues track lodging/campgrounds, transportation, and itinerary/activities.
+- **mcpmark-eval-liuhezi/stargazing-weekend-2026#2** — "Acadia National Park" (open). Candidate site for the fall stargazing weekend; confirms official name Acadia National Park, park code acad, state ME, designation National Park.
+- **mcpmark-eval-liuhezi/park-hopper-fall-2026#2** — "Acadia National Park" (open). Rally point Hulls Cove Visitor Center with drive distance from Bar Harbor, current alerts summary, and entrance fee ($35 private vehicle 7 days; $6 timed-entry vehicle reservation for Cadillac Summit Road).
+- **mcpmark-eval-liuhezi/... (repo truncated in search output)** — "Acadia trip planning" (issue #1, open). Hub issue for coordinating a hiking club's fall trip to Acadia National Park (Maine); park snapshot includes 158 mi hiking trails, 27 mi motor roads, 45 mi carriage roads, ~4 million visits/year.
+
+## Reserve issues opened
+
+- Reserve: Blackwoods Campground
+- Reserve: Seawall Campground
+- Reserve: Schoodic Woods Campground
+- Reserve: Duck Harbor Campground
